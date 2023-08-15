@@ -18,7 +18,10 @@ component analysis and selected the number of dimensions based on their variance
 
 (b) For verification of point (b):
   -- "Pre-processed the data for clustering" can be found in "213070003_213070014_2.ipynb"
+  
   -- "trained principal component analysis" can be found in "213070003_213070014_3.ipynb"
+  
   -- "kernel principal component analysis" can be found in "213070003_213070014_4.ipynb"
+  
   -- Number of dimensions have been selected based on variance explained for both PCA and KPCA in "213070003_213070014_3.ipynb" and "213070003_213070014_4.ipynb" 
      respectively
