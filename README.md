@@ -12,6 +12,8 @@ added weight decay for regularization
 (b) Pre-processed the data for clustering, trained principal component analysis and kernel principal
 component analysis and selected the number of dimensions based on their variance explained
 
+**Clarification for each point**
+
 (a) For verification of point (a) please refer "213070003_213070014_1.ipynb" all the highlighted points in assignment pdf are implemented with observations
 
 (b) For verification of point (b):
