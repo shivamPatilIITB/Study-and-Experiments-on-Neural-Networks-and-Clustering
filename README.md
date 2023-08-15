@@ -2,7 +2,7 @@
 
 **Resume points:**
 
- Study and Experiments on Neural Networks and Clustering | Machine Learning
+**Study and Experiments on Neural Networks and Clustering** | Machine Learning
 
 Instructor: Prof. Amit Sethi, Electrical Engineering, IIT Bombay | Python (Mar’22 - Apr’22)
 
